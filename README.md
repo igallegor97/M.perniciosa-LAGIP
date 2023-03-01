@@ -9,15 +9,15 @@ El genoma de referencia del NCBI para Moniliophthora perniciosa tiene un tamaño
 
 Estadísticas del genoma de referencia:
 
-Size: 26.7 Mb 		Scaffolds: 25,056
+Size: 26.7 Mb                   Scaffolds: 25,056
 
-Scaf N50: 1.3 Kb		Scaf L50: 6,658
+Scaf N50: 1.3 Kb                    Scaf L50: 6,658
 
-Contigs: 25,176		Cont N50: 1.3 Kb
+Contigs: 25,176                   Cont N50: 1.3 Kb
 
-Cont L50: 6,654		%GC: 47.5 
+Cont L50: 6,654                   %GC: 47.5 
 
-Genes: 16,443			Protein-coding: 13,560		Non-coding: 114
+Genes: 16,443                   Protein-coding: 13,560		                    Non-coding: 114
 
 El genoma de referencia del NCBI se montó a partir de la muestra de M.perniciosa FA553, pertenece al biotipo C.
 
