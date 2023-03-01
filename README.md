@@ -8,7 +8,7 @@ Tengo 2 tipos de secuencias: Pair end y Mate pair.
 El genoma de referencia del NCBI para Moniliophthora perniciosa tiene un tamaño de: 26.7 Mb 
 
 Estadísticas del genoma de referencia:
-
+	
 Size: 26.7 Mb                   Scaffolds: 25,056
 
 Scaf N50: 1.3 Kb                    Scaf L50: 6,658
