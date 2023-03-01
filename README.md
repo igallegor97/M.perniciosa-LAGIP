@@ -7,5 +7,7 @@ Per base sequence quality (Forward)
 Per base sequence quality (Reverse)
 ![image](https://user-images.githubusercontent.com/88630062/222264927-3dd6c09d-f97b-4501-a5f4-1056044c6d6f.png)
 
-QUAST & BUSCO results
+QUAST & BUSCO results (contigs.fasta)
 ![2023-03-01](https://user-images.githubusercontent.com/88630062/222269201-0e3ccebe-58d2-4dce-9fe5-dc7176497bb4.png)
+
+QUAST & BUSCO results (scaffolds.fasta)
