@@ -14,3 +14,4 @@
 
 # Pipeline para el montaje: 
 # Fastqc - Trimmomatic - Fastqc - SPAdes.
+# Análisis de calidad e integridad del genoma: QUAST - BUSCO.
